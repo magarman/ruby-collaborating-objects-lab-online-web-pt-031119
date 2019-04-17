@@ -1,7 +1,8 @@
 class MP3Importer
-  attr_accessor: 
+  attr_accessor
   
   
+  def 
   
   
 end
