@@ -2,7 +2,11 @@ class MP3Importer
   attr_accessor
   
   
-  def 
+  def Mp3Importer_files
+  end
+  
+  def Mp3Importer_import
+  end
   
   
 end
